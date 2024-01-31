@@ -2,6 +2,19 @@
 
 
 
+## v0.3.0 (2024-01-31)
+
+### Feature
+
+* feat: testing ([`9b6d4be`](https://github.com/nicolebid/pycounts_nb/commit/9b6d4be2137c69a0dec4d82ef8b7af77a21076d6))
+
+### Unknown
+
+* Update pyproject.toml ([`2825d28`](https://github.com/nicolebid/pycounts_nb/commit/2825d285252c5bd506ecf24de2c884a341e14257))
+
+* Feat: README.md ([`cd8ea54`](https://github.com/nicolebid/pycounts_nb/commit/cd8ea54c62194f88a008d4e447f1f49766e0fb18))
+
+
 ## v0.2.0 (2024-01-31)
 
 ### Feature
