@@ -10,7 +10,7 @@ $ pip install pycounts_nb
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts` can be used to count words in a text file and plot the results
 as follows:
 
 ```python
